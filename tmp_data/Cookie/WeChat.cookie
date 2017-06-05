@@ -1,0 +1,8 @@
+#LWP-Cookies-2.0
+Set-Cookie3: webwx_data_ticket=gSeirFaILz0nLPEgFO6JM7SZ; path="/"; domain=".qq.com"; path_spec; domain_dot; expires="2017-06-05 13:02:25Z"; version=0
+Set-Cookie3: mm_lang=zh_CN; path="/"; domain=".wx.qq.com"; path_spec; expires="2017-06-05 13:02:25Z"; version=0
+Set-Cookie3: webwx_auth_ticket="CIsBEIu45swIGoABEL889B7BQsjXeudZgyC1No8zyziSeS9WvNnUIZx/rHrpUhuq1dfg9/BUFCQLSgYuEBzPzi+V5GCjt1fC3avI3kWGK2jMVF6pu+RjYNEy+VV5r8Wu5f8E+w+v9WEviViQRMSckUD5GGy6iGbpFHpsxeuBNxV5ReylMT86h5Yz99w="; path="/"; domain=".wx.qq.com"; path_spec; expires="2027-06-03 01:02:25Z"; version=0
+Set-Cookie3: webwxuvid=9c25f508afd3358e1422dad9a0a0e149d394845e871fc1c6f94abd8baec52813a7a2502b245f1082e6699f942e04b671; path="/"; domain=".wx.qq.com"; path_spec; expires="2027-06-01 14:45:57Z"; version=0
+Set-Cookie3: wxloadtime=1496624545; path="/"; domain=".wx.qq.com"; path_spec; expires="2017-06-05 13:02:25Z"; version=0
+Set-Cookie3: wxsid=1XgIRmPPTqrkcSv0; path="/"; domain=".wx.qq.com"; path_spec; expires="2017-06-05 13:02:25Z"; version=0
+Set-Cookie3: wxuin=567433578; path="/"; domain=".wx.qq.com"; path_spec; expires="2017-06-05 13:02:25Z"; version=0

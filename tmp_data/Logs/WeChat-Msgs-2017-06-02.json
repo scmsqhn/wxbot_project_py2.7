@@ -1,0 +1,644 @@
+{
+    "Profile": {
+        "BitFlag": 0, 
+        "UserName": {
+            "Buff": ""
+        }, 
+        "HeadImgUrl": "", 
+        "BindMobile": {
+            "Buff": ""
+        }, 
+        "Status": 0, 
+        "Alias": "", 
+        "BindUin": 0, 
+        "PersonalCard": 0, 
+        "Signature": "", 
+        "Sex": 0, 
+        "NickName": {
+            "Buff": ""
+        }, 
+        "BindEmail": {
+            "Buff": ""
+        }, 
+        "HeadImgUpdateFlag": 0
+    }, 
+    "SyncKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370268
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370275
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416070
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "ModContactCount": 0, 
+    "SKey": "", 
+    "ContinueFlag": 0, 
+    "BaseResponse": {
+        "ErrMsg": "", 
+        "Ret": 0
+    }, 
+    "AddMsgList": [
+        {
+            "ImgWidth": 0, 
+            "FromUserName": "@1b8af1f5b929e4ecfe4390b46aff642948f0e13252a83ddda0012d4936833e18", 
+            "PlayLength": 0, 
+            "OriContent": "", 
+            "RecommendInfo": {
+                "UserName": "", 
+                "Province": "", 
+                "City": "", 
+                "Scene": 0, 
+                "QQNum": 0, 
+                "Content": "", 
+                "Alias": "", 
+                "OpCode": 0, 
+                "Signature": "", 
+                "Ticket": "", 
+                "Sex": 0, 
+                "NickName": "", 
+                "AttrStatus": 0, 
+                "VerifyFlag": 0
+            }, 
+            "Content": "", 
+            "StatusNotifyUserName": "filehelper,weixin,newsapp", 
+            "StatusNotifyCode": 4, 
+            "NewMsgId": 4512572320471125255, 
+            "Status": 3, 
+            "VoiceLength": 0, 
+            "ToUserName": "@1b8af1f5b929e4ecfe4390b46aff642948f0e13252a83ddda0012d4936833e18", 
+            "ForwardFlag": 0, 
+            "AppMsgType": 0, 
+            "Ticket": "", 
+            "AppInfo": {
+                "Type": 0, 
+                "AppID": ""
+            }, 
+            "Url": "", 
+            "ImgStatus": 1, 
+            "MsgType": 51, 
+            "ImgHeight": 0, 
+            "MediaId": "", 
+            "MsgId": "4512572320471125255", 
+            "FileName": "", 
+            "HasProductId": 0, 
+            "FileSize": "", 
+            "CreateTime": 1496416070, 
+            "SubMsgType": 0
+        }
+    ], 
+    "SyncCheckKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370268
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370275
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416070
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "AddMsgCount": 1, 
+    "ModChatRoomMemberCount": 0, 
+    "ModContactList": [], 
+    "DelContactList": [], 
+    "ModChatRoomMemberList": [], 
+    "DelContactCount": 0
+}
+{
+    "Profile": {
+        "BitFlag": 0, 
+        "UserName": {
+            "Buff": ""
+        }, 
+        "HeadImgUrl": "", 
+        "BindMobile": {
+            "Buff": ""
+        }, 
+        "Status": 0, 
+        "Alias": "", 
+        "BindUin": 0, 
+        "PersonalCard": 0, 
+        "Signature": "", 
+        "Sex": 0, 
+        "NickName": {
+            "Buff": ""
+        }, 
+        "BindEmail": {
+            "Buff": ""
+        }, 
+        "HeadImgUpdateFlag": 0
+    }, 
+    "SyncKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370268
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370276
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416073
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "ModContactCount": 0, 
+    "SKey": "", 
+    "ContinueFlag": 0, 
+    "BaseResponse": {
+        "ErrMsg": "", 
+        "Ret": 0
+    }, 
+    "AddMsgList": [
+        {
+            "ImgWidth": 0, 
+            "FromUserName": "@1b8af1f5b929e4ecfe4390b46aff642948f0e13252a83ddda0012d4936833e18", 
+            "PlayLength": 0, 
+            "OriContent": "", 
+            "RecommendInfo": {
+                "UserName": "", 
+                "Province": "", 
+                "City": "", 
+                "Scene": 0, 
+                "QQNum": 0, 
+                "Content": "", 
+                "Alias": "", 
+                "OpCode": 0, 
+                "Signature": "", 
+                "Ticket": "", 
+                "Sex": 0, 
+                "NickName": "", 
+                "AttrStatus": 0, 
+                "VerifyFlag": 0
+            }, 
+            "Content": "", 
+            "StatusNotifyUserName": "weixin", 
+            "StatusNotifyCode": 2, 
+            "NewMsgId": 5887818527153792569, 
+            "Status": 3, 
+            "VoiceLength": 0, 
+            "ToUserName": "weixin", 
+            "ForwardFlag": 0, 
+            "AppMsgType": 0, 
+            "Ticket": "", 
+            "AppInfo": {
+                "Type": 0, 
+                "AppID": ""
+            }, 
+            "Url": "", 
+            "ImgStatus": 1, 
+            "MsgType": 51, 
+            "ImgHeight": 0, 
+            "MediaId": "", 
+            "MsgId": "5887818527153792569", 
+            "FileName": "", 
+            "HasProductId": 0, 
+            "FileSize": "", 
+            "CreateTime": 1496416073, 
+            "SubMsgType": 0
+        }
+    ], 
+    "SyncCheckKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370268
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370276
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416073
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "AddMsgCount": 1, 
+    "ModChatRoomMemberCount": 0, 
+    "ModContactList": [], 
+    "DelContactList": [], 
+    "ModChatRoomMemberList": [], 
+    "DelContactCount": 0
+}
+{
+    "Profile": {
+        "BitFlag": 0, 
+        "UserName": {
+            "Buff": ""
+        }, 
+        "HeadImgUrl": "", 
+        "BindMobile": {
+            "Buff": ""
+        }, 
+        "Status": 0, 
+        "Alias": "", 
+        "BindUin": 0, 
+        "PersonalCard": 0, 
+        "Signature": "", 
+        "Sex": 0, 
+        "NickName": {
+            "Buff": ""
+        }, 
+        "BindEmail": {
+            "Buff": ""
+        }, 
+        "HeadImgUpdateFlag": 0
+    }, 
+    "SyncKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370277
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370279
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416724
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "ModContactCount": 0, 
+    "SKey": "", 
+    "ContinueFlag": 0, 
+    "BaseResponse": {
+        "ErrMsg": "", 
+        "Ret": 0
+    }, 
+    "AddMsgList": [
+        {
+            "ImgWidth": 0, 
+            "FromUserName": "@1b8af1f5b929e4ecfe4390b46aff642948f0e13252a83ddda0012d4936833e18", 
+            "PlayLength": 0, 
+            "OriContent": "", 
+            "RecommendInfo": {
+                "UserName": "", 
+                "Province": "", 
+                "City": "", 
+                "Scene": 0, 
+                "QQNum": 0, 
+                "Content": "", 
+                "Alias": "", 
+                "OpCode": 0, 
+                "Signature": "", 
+                "Ticket": "", 
+                "Sex": 0, 
+                "NickName": "", 
+                "AttrStatus": 0, 
+                "VerifyFlag": 0
+            }, 
+            "Content": "\u4f60\u597d", 
+            "StatusNotifyUserName": "", 
+            "StatusNotifyCode": 0, 
+            "NewMsgId": 1866192423217297086, 
+            "Status": 3, 
+            "VoiceLength": 0, 
+            "ToUserName": "@80ffb7db2ecea3c4f4afc705f5f364d3d19fdd82e45df239bece7c6b9f37eb47", 
+            "ForwardFlag": 0, 
+            "AppMsgType": 0, 
+            "Ticket": "", 
+            "AppInfo": {
+                "Type": 0, 
+                "AppID": ""
+            }, 
+            "Url": "", 
+            "ImgStatus": 1, 
+            "MsgType": 1, 
+            "ImgHeight": 0, 
+            "MediaId": "", 
+            "MsgId": "1866192423217297086", 
+            "FileName": "", 
+            "HasProductId": 0, 
+            "FileSize": "", 
+            "CreateTime": 1496416724, 
+            "SubMsgType": 0
+        }
+    ], 
+    "SyncCheckKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370277
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370279
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416724
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "AddMsgCount": 1, 
+    "ModChatRoomMemberCount": 0, 
+    "ModContactList": [], 
+    "DelContactList": [], 
+    "ModChatRoomMemberList": [], 
+    "DelContactCount": 0
+}
+{
+    "Profile": {
+        "BitFlag": 0, 
+        "UserName": {
+            "Buff": ""
+        }, 
+        "HeadImgUrl": "", 
+        "BindMobile": {
+            "Buff": ""
+        }, 
+        "Status": 0, 
+        "Alias": "", 
+        "BindUin": 0, 
+        "PersonalCard": 0, 
+        "Signature": "", 
+        "Sex": 0, 
+        "NickName": {
+            "Buff": ""
+        }, 
+        "BindEmail": {
+            "Buff": ""
+        }, 
+        "HeadImgUpdateFlag": 0
+    }, 
+    "SyncKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370277
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370280
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416729
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "ModContactCount": 0, 
+    "SKey": "", 
+    "ContinueFlag": 0, 
+    "BaseResponse": {
+        "ErrMsg": "", 
+        "Ret": 0
+    }, 
+    "AddMsgList": [
+        {
+            "ImgWidth": 0, 
+            "FromUserName": "@1b8af1f5b929e4ecfe4390b46aff642948f0e13252a83ddda0012d4936833e18", 
+            "PlayLength": 0, 
+            "OriContent": "", 
+            "RecommendInfo": {
+                "UserName": "", 
+                "Province": "", 
+                "City": "", 
+                "Scene": 0, 
+                "QQNum": 0, 
+                "Content": "", 
+                "Alias": "", 
+                "OpCode": 0, 
+                "Signature": "", 
+                "Ticket": "", 
+                "Sex": 0, 
+                "NickName": "", 
+                "AttrStatus": 0, 
+                "VerifyFlag": 0
+            }, 
+            "Content": "", 
+            "StatusNotifyUserName": "@80ffb7db2ecea3c4f4afc705f5f364d3d19fdd82e45df239bece7c6b9f37eb47", 
+            "StatusNotifyCode": 5, 
+            "NewMsgId": 8922328911047059734, 
+            "Status": 3, 
+            "VoiceLength": 0, 
+            "ToUserName": "@80ffb7db2ecea3c4f4afc705f5f364d3d19fdd82e45df239bece7c6b9f37eb47", 
+            "ForwardFlag": 0, 
+            "AppMsgType": 0, 
+            "Ticket": "", 
+            "AppInfo": {
+                "Type": 0, 
+                "AppID": ""
+            }, 
+            "Url": "", 
+            "ImgStatus": 1, 
+            "MsgType": 51, 
+            "ImgHeight": 0, 
+            "MediaId": "", 
+            "MsgId": "8922328911047059734", 
+            "FileName": "", 
+            "HasProductId": 0, 
+            "FileSize": "", 
+            "CreateTime": 1496416729, 
+            "SubMsgType": 0
+        }
+    ], 
+    "SyncCheckKey": {
+        "Count": 8, 
+        "List": [
+            {
+                "Key": 1, 
+                "Val": 646370277
+            }, 
+            {
+                "Key": 2, 
+                "Val": 646370280
+            }, 
+            {
+                "Key": 3, 
+                "Val": 646370273
+            }, 
+            {
+                "Key": 11, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 13, 
+                "Val": 646370084
+            }, 
+            {
+                "Key": 201, 
+                "Val": 1496416729
+            }, 
+            {
+                "Key": 1000, 
+                "Val": 1496396701
+            }, 
+            {
+                "Key": 1001, 
+                "Val": 1496396731
+            }
+        ]
+    }, 
+    "AddMsgCount": 1, 
+    "ModChatRoomMemberCount": 0, 
+    "ModContactList": [], 
+    "DelContactList": [], 
+    "ModChatRoomMemberList": [], 
+    "DelContactCount": 0
+}
